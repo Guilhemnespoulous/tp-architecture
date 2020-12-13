@@ -13,3 +13,5 @@ Pour lancer le projet:
 - Réservez un vol.
 - Vérifiez vos réservations.
 - Déconnectez-vous.
+
+#Afficher l'API Rest sur l'adresse localhost/vols.php
