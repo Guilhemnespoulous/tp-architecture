@@ -14,4 +14,4 @@ Pour initialiser le projet:
 - Déconnectez vous
 
 ## Vous pouvez afficher l'API rest en tapant localhost/vols.php
-## Accèdez aux screenshots de notre projet dans le dossier "screen"
+# Accèdez aux screenshots de notre projet dans le dossier "screen"
